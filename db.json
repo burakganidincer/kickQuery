@@ -1,0 +1,83 @@
+{
+  "shoes": [
+    {
+      "id": "shoe1",
+      "name": "NIKE AIR ZOOM PEGASUS 38 - SKYBOUND",
+      "picture": ["/shoe-4.png", "/shoe-3.png", "/shoe-2.png", "/shoe-1.png"],
+      "description": "Enerji dolu her adımda, mükemmel performans! <br/><br/> Özel kampanyalardan hariçtir. <br/><br/> Affirm, Klarna veya Afterpay ile kolay taksit avantajını yakalayın. <br/><br/> Ücretsiz kargo ve iadeler için adiClub'a üye olun.<br/>",
+      "isNew": true,
+      "discount": 12,
+      "size": "39,40,41",
+      "color": "blue,gray",
+      "gender": "men",
+      "price": 145
+    },
+    {
+      "id": "shoe2",
+      "name": "PUMA ULTRARIDE - DYNAMIC DRIVE",
+      "picture": ["/shoe-4.png", "/shoe-3.png", "/shoe-2.png", "/shoe-1.png"],
+      "description": "Hız ve şıklığın mükemmel kombinasyonu. <br/><br/> Özel indirimlere dahil değildir. <br/><br/> Faizsiz taksit avantajıyla şimdi alın. <br/><br/> adiClub üyelerine özel ücretsiz kargo!<br/>",
+      "isNew": true,
+      "size": "38,42,44",
+      "color": "black,white",
+      "gender": "women",
+      "price": 195
+    },
+    {
+      "id": "shoe3",
+      "name": "NEW BALANCE FUELCELL PRISM - LIGHTSPEED",
+      "picture": ["/shoe-4.png", "/shoe-3.png", "/shoe-2.png", "/shoe-1.png"],
+      "description": "Hafif ve hızlı adımlarla yola çıkın. <br/><br/> İndirimlere dahil değildir. <br/><br/> Affirm, Klarna veya Afterpay ile taksit fırsatları! <br/><br/> adiClub avantajları ile ücretsiz kargo.<br/>",
+      "isNew": false,
+      "size": "41,42,43",
+      "color": "light-gray,black",
+      "gender": "men",
+      "price": 245
+    },
+    {
+      "id": "shoe4",
+      "name": "ASICS GEL-NIMBUS 23 - STORMRUN",
+      "picture": ["/shoe-4.png", "/shoe-3.png", "/shoe-2.png", "/shoe-1.png"],
+      "description": "Şık tasarımı ve rahatlığı ile gün boyu konfor. <br/><br/> Özel indirimlerde geçerli değildir. <br/><br/> Taksitli ödeme seçenekleri mevcut. <br/><br/> adiClub'a katıl ve ücretsiz kargodan faydalan.<br/>",
+      "isNew": false,
+      "size": "40,42,43",
+      "color": "blue,brown",
+      "gender": "women",
+      "price": 290
+    },
+    {
+      "id": "shoe5",
+      "name": "SAUCONY ENDORPHIN SPEED - RAPID PACE",
+      "picture": ["/shoe-4.png", "/shoe-3.png", "/shoe-2.png", "/shoe-1.png"],
+      "description": "Hızınıza hız katın! <br/><br/> Kampanyalara dahil değildir. <br/><br/> Faizsiz taksit seçenekleri ile ödeme kolaylığı. <br/><br/> Ücretsiz kargo için adiClub üyesi olun.<br/>",
+      "isNew": true,
+      "size": "40,42,43",
+      "color": "black,orange",
+      "gender": "men",
+      "price": 340
+    },
+    {
+      "id": "shoe6",
+      "name": "BROOKS GHOST 14 - PHANTOM STEPS",
+      "discount": 25,
+      "picture": ["/shoe-4.png", "/shoe-3.png", "/shoe-2.png", "/shoe-1.png"],
+      "description": "Her adımda ultra hafiflik ve rahatlık. <br/><br/> Özel fırsatlarla hariç tutulmuştur. <br/><br/> Affirm, Klarna veya Afterpay ile kolay ödeme seçenekleri. <br/><br/> Ücretsiz kargo ve iadeler için adiClub'a üye olun.<br/>",
+      "isNew": true,
+      "size": "39,41,44",
+      "color": "blue,light-gray",
+      "gender": "women",
+      "price": 380
+    },
+    {
+      "id": "shoe7",
+      "name": "HOKA ONE ONE CLIFTON 8 - CLOUD STRIDE",
+      "picture": ["/shoe-4.png", "/shoe-3.png", "/shoe-2.png", "/shoe-1.png"],
+      "description": "Yumuşak yastıklama ile her adımda bulutların üzerinde. <br/><br/> Özel indirimlerden hariç tutulmuştur. <br/><br/> Affirm, Klarna veya Afterpay ile faizsiz taksitlerle ödeme. <br/><br/> Ücretsiz kargo ve iadeler için adiClub'a katılın.<br/>",
+      "isNew": false,
+      "size": "41,42,44",
+      "color": "green,orange",
+      "gender": "men",
+      "price": 430
+    }
+  ]
+}
